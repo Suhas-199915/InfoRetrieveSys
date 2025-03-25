@@ -1,0 +1,8 @@
+LICENSE
+setup.py
+Info_Retrieval_project.egg-info/PKG-INFO
+Info_Retrieval_project.egg-info/SOURCES.txt
+Info_Retrieval_project.egg-info/dependency_links.txt
+Info_Retrieval_project.egg-info/top_level.txt
+src/__init__.py
+src/helper.py
